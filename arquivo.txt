@@ -1,0 +1,1 @@
+Este é o conteúdo que será salvo no arquivo de texto.
